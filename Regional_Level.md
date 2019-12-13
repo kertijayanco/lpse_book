@@ -37,6 +37,9 @@
 
 
 # Kalimantan Selatan
+| No | Name    |Genre | Link   | Desc |
+| -- | ------- | :----- | :----- |  :----- |  
+| 1 | LPSE Kab Kotabaru | Kabupaten | [url](https://lpse.kotabaru.web.id) | Pemda Kab Kotabaru |
 
 
 # Kalimantan Tengah
