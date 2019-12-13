@@ -31,6 +31,9 @@
 | 1 | LPSE Kab Batang | Kabupaten | [url](http://lpse.batangkab.go.id/eproc4) | Pemda Kab Batang |
 
 # Jawa Timur
+| No | Name    |Genre | Link   | Desc |
+| -- | ------- | :----- | :----- |  :----- |  
+| 1 | LPSE Kab Lamongan | Kabupaten | [url](http://lpse.lamongankab.go.id/eproc/) | Pemda Kab Lamongan |
 
 
 # Kalimantan Barat
