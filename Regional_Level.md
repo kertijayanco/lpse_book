@@ -29,6 +29,9 @@
 | No | Name    |Genre | Link   | Desc |
 | -- | ------- | :----- | :----- |  :----- |  
 | 1 | LPSE Kab Batang | Kabupaten | [url](http://lpse.batangkab.go.id/eproc4) | Pemda Kab Batang |
+| 2 | LPSE Kab Banyumas | Kabupaten | [url](lpse.banyumaskab.go.id) | Pemda Kab Banyumas |
+
+
 
 # Jawa Timur
 | No | Name    |Genre | Link   | Desc |
