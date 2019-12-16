@@ -20,6 +20,9 @@
 
 
 # Jambi
+| No | Name    |Genre | Link   | Desc |
+| -- | ------- | :----- | :----- |  :----- |  
+| 1 | LPSE PEMDA Jambi | PROV | [url](http://lpse.jambiprov.go.id/eproc4/)| Pemda Prov Jambi|
 
 
 # Jawa Barat
