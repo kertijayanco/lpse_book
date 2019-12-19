@@ -100,7 +100,9 @@
 
 
 # Sulawesi Selatan
-
+| No | Name    |Genre | Link   | Desc |
+| -- | ------- | :----- | :----- |  :----- |  
+| 1 | LPSE KAB BARRU | PROV | [url](lpse.barrukab.go.id)| PemkaB Baruu|
 
 # Sulawesi Tengah
 
