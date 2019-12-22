@@ -114,7 +114,9 @@
 
 
 # Sumatra Barat
-
+| No | Name    |Genre | Link   | Desc |
+| -- | ------- | :----- | :----- |  :----- |  
+| 1 | LPSE KAB SOLOK SELATAN | PROV | [url](http://www.lpse.solselkab.go.id/eproc4)| PemkaB KAB SOLOK SELATAN|
 
 # Sumatra Selatan
 
